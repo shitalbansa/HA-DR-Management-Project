@@ -50,7 +50,8 @@ The architecture typically includes:
 
 • Database Replication: o Real-time or asynchronous replication between primary and secondary databases. 
 
-https://private-user-images.githubusercontent.com/226580162/487268907-b0749a1f-8c87-4c7f-b52f-3f9241e88fdb.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU1MjE5OTUsIm5iZiI6MTc2NTUyMTY5NSwicGF0aCI6Ii8yMjY1ODAxNjIvNDg3MjY4OTA3LWIwNzQ5YTFmLThjODctNGM3Zi1iNTJmLTNmOTI0MWU4OGZkYi5wbmc_WC1
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7b9d83b6-d304-4191-9b12-9fb4113b16dd" />
+
 
 📌 Benefits of This Setup:-
 
